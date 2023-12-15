@@ -1,6 +1,6 @@
 "use client";
 
-import { useProModal } from "@/hooks/user-pro-modal";
+import { useProModal } from "@/hooks/use-pro-modal";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import Image from "next/image";
 import { Button } from "../ui/button";

@@ -19,7 +19,7 @@ import { useAction } from "@/hooks/use-action";
 import { FormInput } from "./form-input";
 import { FormSubmit } from "./form-submit";
 import { FormPicker } from "./form-picker";
-import { useProModal } from "@/hooks/user-pro-modal";
+import { useProModal } from "@/hooks/use-pro-modal";
 
 interface FormPopoverProps {
   children: React.ReactNode;
